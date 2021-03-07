@@ -71,12 +71,13 @@
   }
   
   .header {
-    background:linear-gradient(#2424ff,#93fb93);
+    background:linear-gradient(#549bf7,#a6f8a6);
     padding: 30px 40px;
     margin-bottom: 5px;
     color: white;
     text-align: center;
     border-radius: 15px;
+    box-shadow:  0 4px 7px gray;
   }
   
   .header:after {
